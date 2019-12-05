@@ -1,0 +1,25 @@
+{
+  "name": "h4r5movies",
+  "version": "1.0.0",
+  "description": "This is a movie review app",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movies",
+    "avengers",
+    "end",
+    "game",
+    "avatar2"
+  ],
+  "author": "Harsh Lodhi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.1",
+    "mongoose": "^5.6.10"
+  }
+}
